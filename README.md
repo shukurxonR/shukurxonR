@@ -1,22 +1,49 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shukurulloh+Abdurahmonov;Frontend+Engineer+%7C+React+%2B+Next.js;Clean+Code+%7C+Fast+UI+%7C+Pixel+Perfect" />
-</p>
+Shukurulloh Abdurahmonov
+shukurulloh-dev
+Frontend Developer
+Edit profile
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=100&section=header&text=Welcome%20to%20my%20GitHub&fontSize=20&fontAlign=50&desc=by%20Shukurulloh&descSize=12" />
-</p>
+followers - following
 
----
+Tashkent, Uzbekistan
 
-## 💡 About Me
+https://shukurulloh-dev.github.io
 
-```ts
-const developer = {
-  name: "Shukurulloh Abdurahmonov",
-  role: "Frontend Developer",
-  basedIn: "Uzbekistan",
-  techStack: ["JavaScript", "TypeScript", "React", "Next.js", "TailwindCSS"],
-  focus: "Performance, Accessibility, UX, Clean Architecture",
-  currently: "Deep-diving into React/Next.js ecosystems"
-}
+@shukurulloh-dev
+
+Achievements
+Overview
+
+Repositories
+
+Projects
+
+Packages
+
+Stars
+
+shukurulloh-dev / portfolio
+Hi there 👋
+I'm a Frontend Developer passionate about creating interactive and responsive web applications.
+My tech stack includes:
+
+[REACT] [TYPESCRIPT] [NEXT.JS] [SASS] [TAILWIND]
+
+I'm currently working on
+Freelance projects for real clients.
+
+Improving my portfolio with new features.
+
+I'm learning
+[NODE.JS] [BACKEND DEVELOPMENT] [ADVANCED REACT PATTERNS]
+
+I'm looking for help with
+Advanced backend integration with Node.js.
+
+Optimizing performance in large-scale applications.
+
+How to reach me
+LINKEDIN [GITHUB] [TELEGRAM]
+
+Fun fact
+I can solve a Rubik's cube in under 2 minutes!
