@@ -24,28 +24,19 @@ I focus on **clean architecture**, performance, and production‑ready solutions
 ### 🛠️ Technologies & Tools
 
 #### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
 </p>
 
 #### Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose
+" />
 </p>
-
-#### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
 
 ### 📌 Experience Highlights
 
-* ✅ 1 year of **hands‑on experience** in real production projects
+* ✅ Experience in real projects
 * ✅ Strong experience with **full‑stack MERN applications**
 * ✅ Advanced dashboard & panel systems
 * ✅ Online market & e‑commerce experience
@@ -55,7 +46,7 @@ I focus on **clean architecture**, performance, and production‑ready solutions
 ### 🤝 Let’s Connect
 
 <p>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shukurxonR"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
