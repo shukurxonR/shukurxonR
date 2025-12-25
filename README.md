@@ -30,8 +30,7 @@ I focus on **clean architecture**, performance, and production‑ready solutions
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose
-" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 📌 Experience Highlights
