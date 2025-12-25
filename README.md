@@ -34,5 +34,3 @@
 </p>
 
 ---
-
-⭐ *Focused on building serious products, not just demos.*
