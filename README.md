@@ -1,7 +1,63 @@
-# Shukurxondev
+# Hi there, I'm **Shukurulloh Abdurahmonov** 👋
 
-MERN Stack Developer focused on building modern web applications.
+🇺🇿 Based in Uzbekistan
+💻 **MERN Stack Developer**
+🚀 Building large‑scale, real‑world full‑stack applications
 
-**Stack:** Next.js • TypeScript • Tailwind CSS • Node.js • Express.js • MongoDB
+---
 
-Clean code, real projects, and third‑party integrations.
+### 👨‍💻 About Me
+
+I’m a MERN Stack developer with **1+ year of real project experience**, working on **large full‑stack systems**.
+
+I’ve independently built and managed:
+
+* Powerful **Admin Panels**
+* **Instructor / Role‑based dashboards**
+* Large **online marketplaces**
+* Scalable backend architectures
+
+I focus on **clean architecture**, performance, and production‑ready solutions.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+### 📌 Experience Highlights
+
+* ✅ 1 year of **hands‑on experience** in real production projects
+* ✅ Strong experience with **full‑stack MERN applications**
+* ✅ Advanced dashboard & panel systems
+* ✅ Online market & e‑commerce experience
+
+---
+
+### 🤝 Let’s Connect
+
+<p>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *Focused on building serious products, not just demos.*
