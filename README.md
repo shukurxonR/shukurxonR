@@ -6,21 +6,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I’m a MERN Stack developer with **1+ year of real project experience**, working on **large full‑stack systems**.
-
-I’ve independently built and managed:
-
-* Powerful **Admin Panels**
-* **Instructor / Role‑based dashboards**
-* Large **online marketplaces**
-* Scalable backend architectures
-
-I focus on **clean architecture**, performance, and production‑ready solutions.
-
----
-
 ### 🛠️ Technologies & Tools
 
 #### Frontend
